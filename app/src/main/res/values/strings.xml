@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Memoryzer</string>
+    <string name="new_quiz">New Quiz</string>
+    <string name="default_set">Default</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="answer_hint">Your answer</string>
+    <string name="question_placeholder">Question text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="finish">Finish</string>
+    <string name="correct">Correct !</string>
+    <string name="wrong">Wrong answer</string>
+</resources>

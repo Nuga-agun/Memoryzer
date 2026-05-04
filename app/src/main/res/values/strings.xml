@@ -12,4 +12,13 @@
     <string name="finish">Finish</string>
     <string name="correct">Correct !</string>
     <string name="wrong">Wrong answer</string>
+    <string name="create_set">Create New Set</string>
+    <string name="create_new_set">Create New Set</string>
+    <string name="set_name">Set Name</string>
+    <string name="add_question">Add Question</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="add">Add</string>
+    <string name="save_set">Save Set</string>
+    <string name="remove">Remove</string>
 </resources>
